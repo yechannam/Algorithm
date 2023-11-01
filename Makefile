@@ -1,6 +1,6 @@
 
-CC= g++
-CFLAGS= -g3 -Wall -Werror -Wextra
+CC= c++
+CFLAGS= -g3
 LDFLAGS=
 LDLIBS=
 
